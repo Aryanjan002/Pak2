@@ -1,3 +1,8 @@
+# this tools for Crack account pakistan 
+# no login 
+
+# ✔️✔️✔️✔️✔️✔️✔️✔️✔️✔️
+
 # coded by ARYAN HACKER 👑 
 # pkg update 
 # pkg upgrade 
