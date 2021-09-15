@@ -12,7 +12,7 @@
 # pip2 install requests mechanize 
 # git clone https://github.com/Aryanjan002/Pak2
 # cd Pak2
-# python2 RayeesAryan 
+# python2 RayeesAryan.py
 # password Aryan
 
 # join my telegram channel https://t.me/joinchat/RHNshhMEJyM0TRzk
